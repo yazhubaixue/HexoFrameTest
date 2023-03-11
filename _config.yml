@@ -105,4 +105,4 @@ theme: frame
 deploy:
   type: git
   repo: https://github.com/yazhubaixue/yazhubaixue.github.io
-  branch: gh-pages
+  branch: gh-pages-2
